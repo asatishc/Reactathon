@@ -9,3 +9,5 @@ https://codepen.io/wmdmark/pen/qNJQQQ
 
 
 https://github.com/FordTang/ReactJS-JobPortal
+
+https://auth0.com/blog/reactjs-authentication-tutorial/
