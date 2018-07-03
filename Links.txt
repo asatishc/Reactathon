@@ -4,3 +4,4 @@ https://stormpath.com/blog/build-a-react-app-with-user-authentication
 
 http://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example
 
+https://serverless-stack.com/chapters/create-a-login-page.html
