@@ -18,3 +18,4 @@ https://scotch.io/tutorials/easy-node-authentication-setup-and-local
 
 https://stackoverflow.com/questions/40347411/how-to-display-json-data-with-reactjs-in-the-table
 
+https://medium.freecodecamp.org/rock-solid-react-js-foundations-a-beginners-guide-c45c93f5a923
