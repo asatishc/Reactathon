@@ -16,3 +16,5 @@ https://medium.appbase.io/how-to-implement-authentication-for-your-react-app-cf0
 
 https://scotch.io/tutorials/easy-node-authentication-setup-and-local
 
+https://stackoverflow.com/questions/40347411/how-to-display-json-data-with-reactjs-in-the-table
+
