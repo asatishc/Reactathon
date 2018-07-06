@@ -19,3 +19,15 @@ https://scotch.io/tutorials/easy-node-authentication-setup-and-local
 https://stackoverflow.com/questions/40347411/how-to-display-json-data-with-reactjs-in-the-table
 
 https://medium.freecodecamp.org/rock-solid-react-js-foundations-a-beginners-guide-c45c93f5a923
+
+----------------
+https://www.oreilly.com/ideas/5-things-to-learn-before-learning-react
+
+http://shop.oreilly.com/product/0636920049579.do
+
+http://www.r-5.org/files/books/computers/languages/escss/react/Alex_Banks_and_Eve_Porcello-Learning_React-EN.pdf
+
+https://medium.freecodecamp.org/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5
+
+https://github.com/transidai1705/javascript-ebooks/blob/master/%5BReactJS%20by%20Example%20-%20Building%20Modern%20Web%20Applications%20with%20React%20Kindle%20Edition%20by%20Vipul%20A%20M%2C%20Prathamesh%20Sonpatki%20-%202016%5D.pdf
+
